@@ -8,7 +8,7 @@
 # include <fcntl.h>
 # include <unistd.h>
 
-# define BUFF_SIZE 32
+# define BUFF_SIZE 10
 
 typedef struct  s_data
 {
